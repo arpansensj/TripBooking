@@ -15,8 +15,8 @@ const Sidebar = () => {
         
       </div>
       <div className="flex items-center gap-5 p-6 animate-fade animate-duration-[2000ms] animate-delay-200 animate-ease-out ">
-      <Card/>
-      <Card/>
+      <Card imgURL="/assets/desert.jpg" />
+      <Card imgURL= "/assets/road.jpg"/>
       </div>
     </div>
   )
